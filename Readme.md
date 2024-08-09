@@ -5,9 +5,11 @@ A simple interactive web application that converts text to speech with a typing 
 ## 📺 Demo
 
 <video width="360" height="640" controls style="max-width: 100%; height: auto;">
-  <source src="output.mp4" type="video/mp4">
+  <source src="./demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+[![Watch the video](https://raw.githubusercontent.com/text-to-speech-with-typing-animation/raw/main/demo.png)](https://raw.githubusercontent.com/arunpraba/text-to-speech-with-typing-animation/raw/main/demo.mp4)
 
 ## 🌟 Features
 
